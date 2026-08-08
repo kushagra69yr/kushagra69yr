@@ -29,7 +29,7 @@
 <b>High-Performance Product Catalog Engine</b><br><br>
 Fast product retrieval for large catalogs using <b>cursor pagination</b>, indexed SQL queries and FastAPI. Designed to avoid deep OFFSET scans and keep pagination stable as data changes.
 <br><br>
-<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sales-motion.svg" width="55%" alt="Animated sales performance visual" />
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sales-motion.svg" width="47%" alt="Animated sales performance visual" />
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
@@ -42,7 +42,7 @@ Fast product retrieval for large catalogs using <b>cursor pagination</b>, indexe
 <b>AI Smart Agriculture Platform</b><br><br>
 Uses <b>N, P, K, temperature, humidity, pH and rainfall</b> to generate crop recommendations through a Random Forest model and Flask prediction workflow.
 <br><br>
-<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/crop-motion.svg" width="55%" alt="Animated crop growth visual" />
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/crop-motion.svg" width="47%" alt="Animated crop growth visual" />
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
@@ -55,7 +55,7 @@ Uses <b>N, P, K, temperature, humidity, pH and rainfall</b> to generate crop rec
 <b>Federated Learning Healthcare Research</b><br><br>
 Early sepsis prediction from clinical time-series data using <b>Transformer + GRU-D</b> with federated learning concepts to reduce the need to centralize sensitive healthcare data.
 <br><br>
-<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/health-motion.svg" width="55%" alt="Animated heartbeat visual" />
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/health-motion.svg" width="47%" alt="Animated heartbeat visual" />
 </td>
 </tr>
 </table>
