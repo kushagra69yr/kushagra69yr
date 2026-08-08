@@ -22,11 +22,19 @@
 ## 🚀 Featured Work
 
 <div align="center">
-<a href="https://github.com/kushagra69yr/codevector"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/codevector.svg" width="90%" /></a>
-<br><br>
-<a href="https://github.com/kushagra69yr/GOAgro"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/goagro.svg" width="90%" /></a>
-<br><br>
-<a href="https://github.com/kushagra69yr/Neonatal-Sepsis"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sepsis.svg" width="90%" /></a>
+
+<a href="https://github.com/kushagra69yr/codevector"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/codevector.svg" width="62%" /></a>
+
+**High-performance product catalog backend · Cursor pagination · Indexed SQL · FastAPI**
+
+<a href="https://github.com/kushagra69yr/GOAgro"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/goagro.svg" width="62%" /></a>
+
+**AI crop recommendation · Random Forest · Soil + climate analysis · Flask**
+
+<a href="https://github.com/kushagra69yr/Neonatal-Sepsis"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sepsis.svg" width="62%" /></a>
+
+**Privacy-aware healthcare AI · Transformer + GRU-D · Federated Learning**
+
 </div>
 
 ## 🧠 Tech Stack
