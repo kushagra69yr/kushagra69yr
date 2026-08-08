@@ -25,15 +25,18 @@
 
 <a href="https://github.com/kushagra69yr/codevector"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/codevector.svg" width="62%" /></a>
 
-**High-performance product catalog backend · Cursor pagination · Indexed SQL · FastAPI**
+**High-performance product catalog backend · Cursor pagination · Indexed SQL · FastAPI**  
+Designed for stable, efficient product retrieval across large datasets, with indexed cursor-based pagination to avoid the performance and consistency issues of deep OFFSET queries.
 
 <a href="https://github.com/kushagra69yr/GOAgro"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/goagro.svg" width="62%" /></a>
 
-**AI crop recommendation · Random Forest · Soil + climate analysis · Flask**
+**AI crop recommendation · Random Forest · Soil + climate analysis · Flask**  
+Uses N, P, K, temperature, humidity, pH and rainfall inputs to generate a machine-learning-based crop recommendation through a Flask prediction workflow.
 
 <a href="https://github.com/kushagra69yr/Neonatal-Sepsis"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sepsis.svg" width="62%" /></a>
 
-**Privacy-aware healthcare AI · Transformer + GRU-D · Federated Learning**
+**Privacy-aware healthcare AI · Transformer + GRU-D · Federated Learning**  
+Research-focused early sepsis prediction using clinical time-series data, with decentralized training concepts designed to reduce the need to centralize sensitive healthcare data.
 
 </div>
 
