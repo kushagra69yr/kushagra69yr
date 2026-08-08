@@ -21,24 +21,46 @@
 
 ## 🚀 Featured Work
 
-<div align="center">
-
-<a href="https://github.com/kushagra69yr/codevector"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/codevector.svg" width="62%" /></a>
-
-**High-performance product catalog backend · Cursor pagination · Indexed SQL · FastAPI**  
-Designed for stable, efficient product retrieval across large datasets, with indexed cursor-based pagination to avoid the performance and consistency issues of deep OFFSET queries.
-
-<a href="https://github.com/kushagra69yr/GOAgro"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/goagro.svg" width="62%" /></a>
-
-**AI crop recommendation · Random Forest · Soil + climate analysis · Flask**  
-Uses N, P, K, temperature, humidity, pH and rainfall inputs to generate a machine-learning-based crop recommendation through a Flask prediction workflow.
-
-<a href="https://github.com/kushagra69yr/Neonatal-Sepsis"><img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sepsis.svg" width="62%" /></a>
-
-**Privacy-aware healthcare AI · Transformer + GRU-D · Federated Learning**  
-Research-focused early sepsis prediction using clinical time-series data, with decentralized training concepts designed to reduce the need to centralize sensitive healthcare data.
-
-</div>
+<table width="100%">
+<tr>
+<td width="42%" valign="middle">
+<a href="https://github.com/kushagra69yr/codevector"><img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=900&q=85" width="100%" alt="Retail sales and product catalog" /></a>
+</td>
+<td width="58%" valign="middle">
+<h3>CodeVector</h3>
+<b>High-Performance Product Catalog Engine</b><br><br>
+Fast product retrieval for large catalogs using <b>cursor pagination</b>, indexed SQL queries and FastAPI. Designed to avoid deep OFFSET scans and keep pagination stable as data changes.
+<br><br>
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/sales-motion.svg" width="100%" alt="Animated sales performance visual" />
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="42%" valign="middle">
+<a href="https://github.com/kushagra69yr/GOAgro"><img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=900&q=85" width="100%" alt="Agricultural crop field" /></a>
+</td>
+<td width="58%" valign="middle">
+<h3>GOAgro</h3>
+<b>AI Smart Agriculture Platform</b><br><br>
+Uses <b>N, P, K, temperature, humidity, pH and rainfall</b> to generate crop recommendations through a Random Forest model and Flask prediction workflow.
+<br><br>
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/crop-motion.svg" width="100%" alt="Animated crop growth visual" />
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="42%" valign="middle">
+<a href="https://github.com/kushagra69yr/Neonatal-Sepsis"><img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=85" width="100%" alt="Biomedical research laboratory" /></a>
+</td>
+<td width="58%" valign="middle">
+<h3>Neonatal Sepsis</h3>
+<b>Federated Learning Healthcare Research</b><br><br>
+Early sepsis prediction from clinical time-series data using <b>Transformer + GRU-D</b> with federated learning concepts to reduce the need to centralize sensitive healthcare data.
+<br><br>
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/assets/health-motion.svg" width="100%" alt="Animated heartbeat visual" />
+</td>
+</tr>
+</table>
 
 ## 🧠 Tech Stack
 
