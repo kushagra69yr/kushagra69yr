@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/banner.svg" width="82%" alt="Kushagra Burman" />
+<img src="https://raw.githubusercontent.com/kushagra69yr/kushagra69yr/main/banner.svg" width="100%" alt="Kushagra Burman" />
 
 # Kushagra Burman
 **AI/ML Developer · Backend Engineer · Researcher**
