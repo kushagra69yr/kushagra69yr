@@ -68,13 +68,20 @@ Early sepsis prediction from clinical time-series data using <b>Transformer + GR
 ## 🧠 Tech Stack
 <div align="center"><img src="https://skillicons.dev/icons?i=python,java,cpp,c,fastapi,flask,pytorch,tensorflow,sklearn,mysql,mongodb,postgres,git,github,html,css,js" width="76%" /></div>
 
-## 📊 GitHub
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kushagra69yr&show_icons=true&hide_border=true&theme=transparent&title_color=63e9ff&icon_color=63e9ff&text_color=9aa7ad&bg_color=00000000" height="155" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra69yr&layout=compact&hide_border=true&theme=transparent&title_color=63e9ff&text_color=9aa7ad&bg_color=00000000" height="155" /><br><br><img src="https://streak-stats.demolab.com?user=kushagra69yr&theme=transparent&hide_border=true&ring=63e9ff&fire=63e9ff&currStreakLabel=63e9ff" width="62%" /></div>
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kushagra69yr&show_icons=true&hide_border=true&theme=transparent&title_color=63e9ff&icon_color=63e9ff&text_color=9aa7ad&bg_color=00000000" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra69yr&layout=compact&hide_border=true&theme=transparent&title_color=63e9ff&text_color=9aa7ad&bg_color=00000000" height="155" />
+<br><br>
+<img src="https://streak-stats.demolab.com?user=kushagra69yr&theme=transparent&hide_border=true&ring=63e9ff&fire=63e9ff&currStreakLabel=63e9ff" width="62%" />
+</div>
+
+<p align="center"><a href="https://github.com/kushagra69yr"><strong>View my GitHub profile and contribution activity ↗</strong></a></p>
 
 ## 🏆 Highlights
 <div align="center">
 <img src="https://img.shields.io/badge/100%2B-DSA%20Problems-63E9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/7.77-CGPA-63E9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/7.81-CGPA-63E9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Research-AI%20%26%20Healthcare-63E9FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%2FML-B.E.-63E9FF?style=for-the-badge" />
 </div>
