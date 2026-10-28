@@ -32,7 +32,7 @@
 <td width="65%" valign="middle">
 <h3>EstateIQ 🏡</h3>
 <b>Intelligent Real Estate Discovery Platform</b><br><br>
-Explore a polished real-estate demo featuring searchable property listings, location and budget filters, favourites, side-by-side property comparisons, and an illustrative price-estimation lab. Built with <b>HTML, CSS and JavaScript</b> with a responsive interface.
+EstateIQ is a responsive real-estate discovery interface designed to make browsing and evaluating residential properties clearer and more convenient. The demo brings together searchable listings, location and budget filters, property shortlisting, side-by-side comparisons, and a price-estimation experience in one polished interface. Built with <b>HTML, CSS, and vanilla JavaScript</b>, it demonstrates interactive front-end design and browser-based data filtering.
 <br><br>
 <a href="https://kushagra69yr.github.io/EstateIQ/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20EstateIQ-214b38?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open EstateIQ live demo" /></a>
 <a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://img.shields.io/badge/GITHUB-Source%20Code-24292f?style=for-the-badge&logo=github&logoColor=white" alt="EstateIQ source code" /></a>
@@ -41,7 +41,7 @@ Explore a polished real-estate demo featuring searchable property listings, loca
 <img src="https://img.shields.io/badge/COMPARE-Multiple%20Homes-5a8065?style=flat-square" />
 <img src="https://img.shields.io/badge/PRICE%20LAB-Demo%20Estimator-5a8065?style=flat-square" />
 <br><br>
-<i>Note: listing data and estimates are illustrative demo content; the estimator is not a trained ML model.</i>
+<i>Note: Listings and estimates are illustrative demo content. The estimator is rule-based and is not a trained machine-learning model.</i>
 </td>
 </tr>
 <tr><td colspan="2"><br></td></tr>
