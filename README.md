@@ -27,7 +27,7 @@
 <table width="100%">
 <tr>
 <td width="35%" valign="middle" align="center">
-<a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://images.unsplash.com/photo-160059 пикир?auto=format&fit=crop&w=700&q=85" width="85%" alt="Modern luxury home with landscaped garden for EstateIQ real estate discovery project" /></a>
+<a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=700&q=85" width="85%" alt="Modern luxury home with landscaped garden for EstateIQ real estate discovery project" /></a>
 </td>
 <td width="65%" valign="middle">
 <h3>EstateIQ 🏡</h3>
