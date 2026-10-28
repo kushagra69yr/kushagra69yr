@@ -34,7 +34,7 @@
 <b>Intelligent Real Estate Discovery Platform</b><br><br>
 EstateIQ is a responsive real-estate discovery interface designed to make browsing and evaluating residential properties clearer and more convenient. The demo brings together searchable listings, location and budget filters, property shortlisting, side-by-side comparisons, and a price-estimation experience in one polished interface. Built with <b>HTML, CSS, and vanilla JavaScript</b>, it demonstrates interactive front-end design and browser-based data filtering.
 <br><br>
-<a href="https://kushagra69yr.github.io/EstateIQ/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20EstateIQ-214b38?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open EstateIQ live demo" /></a>
+<a href="https://kushagra69yr.github.io/estateiq/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20EstateIQ-214b38?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open EstateIQ live demo" /></a>
 <a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://img.shields.io/badge/GITHUB-Source%20Code-24292f?style=for-the-badge&logo=github&logoColor=white" alt="EstateIQ source code" /></a>
 <br><br>
 <img src="https://img.shields.io/badge/PROPERTY%20SEARCH-Responsive%20UI-5a8065?style=flat-square" />
