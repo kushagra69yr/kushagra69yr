@@ -27,6 +27,26 @@
 <table width="100%">
 <tr>
 <td width="35%" valign="middle" align="center">
+<a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://images.unsplash.com/photo-160059 пикир?auto=format&fit=crop&w=700&q=85" width="85%" alt="Modern luxury home with landscaped garden for EstateIQ real estate discovery project" /></a>
+</td>
+<td width="65%" valign="middle">
+<h3>EstateIQ 🏡</h3>
+<b>Intelligent Real Estate Discovery Platform</b><br><br>
+Explore a polished real-estate demo featuring searchable property listings, location and budget filters, favourites, side-by-side property comparisons, and an illustrative price-estimation lab. Built with <b>HTML, CSS and JavaScript</b> with a responsive interface.
+<br><br>
+<a href="https://kushagra69yr.github.io/EstateIQ/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Open%20EstateIQ-214b38?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open EstateIQ live demo" /></a>
+<a href="https://github.com/kushagra69yr/EstateIQ"><img src="https://img.shields.io/badge/GITHUB-Source%20Code-24292f?style=for-the-badge&logo=github&logoColor=white" alt="EstateIQ source code" /></a>
+<br><br>
+<img src="https://img.shields.io/badge/PROPERTY%20SEARCH-Responsive%20UI-5a8065?style=flat-square" />
+<img src="https://img.shields.io/badge/COMPARE-Multiple%20Homes-5a8065?style=flat-square" />
+<img src="https://img.shields.io/badge/PRICE%20LAB-Demo%20Estimator-5a8065?style=flat-square" />
+<br><br>
+<i>Note: listing data and estimates are illustrative demo content; the estimator is not a trained ML model.</i>
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="35%" valign="middle" align="center">
 <a href="https://github.com/kushagra69yr/codevector"><img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=600&q=70" width="70%" alt="Retail sales and product catalog" /></a>
 </td>
 <td width="65%" valign="middle">
